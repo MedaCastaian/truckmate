@@ -1,0 +1,19 @@
+# Build
+target/
+build/
+out/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+createdFiles.lst
+inputFiles.lst
