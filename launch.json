@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "🚀 Run TruckmateApplication",
+      "request": "launch",
+      "mainClass": "com.truckmate.truckmate.TruckmateApplication",
+      "projectName": "truckmate"
+    }
+  ]
+}
